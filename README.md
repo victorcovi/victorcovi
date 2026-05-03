@@ -1,16 +1,13 @@
-## Hi there 👋
+## 📱 Flutter Related Projects
 
-<!--
-**victorcovi/victorcovi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MultitecUA app**  
+🔗 [Repository Link](https://github.com/Multitec-UA/multitec-app)
 
-Here are some ideas to get you started:
+**City Search app**  
+🔗 [Repository Link](https://github.com/victorcovi/sq1_assignment)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**MoviesDB test app**  
+🔗 [Repository Link](https://github.com/victorcovi/movies_testapp)
+
+**Lottie Flutter fork**  
+🔗 [Repository Link](https://github.com/victorcovi/lottie-flutter)
